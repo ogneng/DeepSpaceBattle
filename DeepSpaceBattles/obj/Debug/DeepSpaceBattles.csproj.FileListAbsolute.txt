@@ -1,0 +1,54 @@
+D:\Visual Studio Projects\DeepSpaceBattles\DeepSpaceBattles\bin\Debug\DeepSpaceBattles.exe.config
+D:\Visual Studio Projects\DeepSpaceBattles\DeepSpaceBattles\bin\Debug\DeepSpaceBattles.exe
+D:\Visual Studio Projects\DeepSpaceBattles\DeepSpaceBattles\bin\Debug\DeepSpaceBattles.pdb
+D:\Visual Studio Projects\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.Form1.resources
+D:\Visual Studio Projects\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.Properties.Resources.resources
+D:\Visual Studio Projects\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.exe
+D:\Visual Studio Projects\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.pdb
+C:\Users\Ognen95\Desktop\DeepSpaceBattles\DeepSpaceBattles\bin\Debug\DeepSpaceBattles.exe.config
+C:\Users\Ognen95\Desktop\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.exe
+C:\Users\Ognen95\Desktop\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.pdb
+C:\Users\Ognen95\Desktop\DeepSpaceBattles\DeepSpaceBattles\bin\Debug\DeepSpaceBattles.exe
+C:\Users\Ognen95\Desktop\DeepSpaceBattles\DeepSpaceBattles\bin\Debug\DeepSpaceBattles.pdb
+C:\Users\Ognen95\Desktop\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.csprojResolveAssemblyReference.cache
+C:\Users\Ognen95\Desktop\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.Form1.resources
+C:\Users\Ognen95\Desktop\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.Properties.Resources.resources
+C:\Users\Ognen95\Desktop\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.csproj.GenerateResource.Cache
+C:\Users\Ana\Downloads\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\bin\Debug\DeepSpaceBattles.exe.config
+C:\Users\Ana\Downloads\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.exe
+C:\Users\Ana\Downloads\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.pdb
+C:\Users\Ana\Downloads\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\bin\Debug\DeepSpaceBattles.exe
+C:\Users\Ana\Downloads\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\bin\Debug\DeepSpaceBattles.pdb
+C:\Users\Ana\Downloads\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Downloads\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.Form1.resources
+C:\Users\Ana\Downloads\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.Properties.Resources.resources
+C:\Users\Ana\Downloads\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.csproj.GenerateResource.Cache
+C:\Users\Ana\Downloads\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.Home.resources
+C:\Users\Ana\Downloads\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.HowToPlay.resources
+C:\Users\Ognen95\Desktop\5s\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\bin\Debug\DeepSpaceBattles.exe.config
+C:\Users\Ognen95\Desktop\5s\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.exe
+C:\Users\Ognen95\Desktop\5s\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.pdb
+C:\Users\Ognen95\Desktop\5s\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\bin\Debug\DeepSpaceBattles.exe
+C:\Users\Ognen95\Desktop\5s\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\bin\Debug\DeepSpaceBattles.pdb
+C:\Users\Ognen95\Desktop\5s\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.csprojResolveAssemblyReference.cache
+C:\Users\Ognen95\Desktop\5s\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.Form1.resources
+C:\Users\Ognen95\Desktop\5s\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.Home.resources
+C:\Users\Ognen95\Desktop\5s\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.HowToPlay.resources
+C:\Users\Ognen95\Desktop\5s\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.Properties.Resources.resources
+C:\Users\Ognen95\Desktop\5s\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.csproj.GenerateResource.Cache
+C:\Users\Ana\Downloads\DeepSpaceBattles(2)\DeepSpaceBattles\DeepSpaceBattles\bin\Debug\DeepSpaceBattles.exe.config
+C:\Users\Ana\Downloads\DeepSpaceBattles(2)\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.exe
+C:\Users\Ana\Downloads\DeepSpaceBattles(2)\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.pdb
+C:\Users\Ana\Downloads\DeepSpaceBattles(2)\DeepSpaceBattles\DeepSpaceBattles\bin\Debug\DeepSpaceBattles.exe
+C:\Users\Ana\Downloads\DeepSpaceBattles(2)\DeepSpaceBattles\DeepSpaceBattles\bin\Debug\DeepSpaceBattles.pdb
+C:\Users\Ana\Downloads\DeepSpaceBattles(2)\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Downloads\DeepSpaceBattles(2)\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.Form1.resources
+C:\Users\Ana\Downloads\DeepSpaceBattles(2)\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.Home.resources
+C:\Users\Ana\Downloads\DeepSpaceBattles(2)\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.HowToPlay.resources
+C:\Users\Ana\Downloads\DeepSpaceBattles(2)\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.Properties.Resources.resources
+C:\Users\Ana\Downloads\DeepSpaceBattles(2)\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.csproj.GenerateResource.Cache
+C:\Users\Ana\Downloads\DeepSpaceBattles_Game\DeepSpaceBattles\DeepSpaceBattles\bin\Debug\DeepSpaceBattles.exe.config
+C:\Users\Ana\Downloads\DeepSpaceBattles_Game\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.exe
+C:\Users\Ana\Downloads\DeepSpaceBattles_Game\DeepSpaceBattles\DeepSpaceBattles\obj\Debug\DeepSpaceBattles.pdb
