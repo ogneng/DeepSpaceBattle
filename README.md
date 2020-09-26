@@ -16,7 +16,7 @@ Open the downloaded file and it will open the game showing the main menu. </br>
 •	Boss.cs - за главниот непријател</br>
 •	Weapon1.cs - за оружјето на леталото на играчот како и за оружјето на непријателските летала</br>
 •	BossWeapon.cs - за оружјето на главниот непријател</br>
-	Форми:</br>
+<t>	Форми:</br>
 •	Home.cs - главна форма</br>
 •	Form1.cs - играта</br>
 •	HowToPlay.cs - правила на играта.</br>
