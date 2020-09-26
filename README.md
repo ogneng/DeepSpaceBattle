@@ -1,7 +1,10 @@
 # DeepSpaceBattle
 C# project in second year of study at Finki.
 
-
+How to open:</br>
+Click on DeepSpaceBattles.exe </br>
+Then on download button. </br>
+Open the downloaded file and it will open the game showing the main menu. </br>
 
 
 Замислата на проектот е да се имплементира едноставна 2Д игра. Идејата за оваа е од игрите Chicken Invaders. Настанот во играта се случува во вселената, каде едно малечко летало се бори со непријатели. Целта на играта е најпрво да се уништата сите мали вселенски летала на непријателот за потоа да се стигне до главниот непријател, како и истиот да се уништи.
